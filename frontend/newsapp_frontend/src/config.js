@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://newswebapp-0sz4.onrender.com';
